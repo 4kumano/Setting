@@ -1,3 +1,4 @@
+<?php
 //cryptopop
 $uidpop = "Z4jPYmnvY8W1IVNs24ZT3SWaKzB2";
 
