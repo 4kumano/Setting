@@ -2,6 +2,7 @@
 
 //AkunCoinBase
 $email_coinbaseUtama = "bergetar15@gmail.com";
+$email_coinbaseUtama2 = "bergetar19@gmail.com";
 
 //cryptopop
 $uidpop = "Z4jPYmnvY8W1IVNs24ZT3SWaKzB2";
