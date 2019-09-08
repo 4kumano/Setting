@@ -35,3 +35,4 @@ $dataLSV = "coin_earn=0&hashkey=6JypJeMUxGVl6FluNyuqFPTCbxk%3D%0A&time_zone_gmt=
 //bulx
 $UserBulx = "bergetar15@gmail.com";
 $creedkeyBulx = "202134110e";
+$tokenBulx = "xxxxxxxxxxx";
