@@ -40,5 +40,8 @@ $tokenBulx = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjA3YWQ1NjkzMGY
 //kalo
 $hashku = "xxxxxx";
 
-
+//elitpass
+$tokenep = "xxxxx";
+$sessionep = "xxxxx";
+$dataep = "xxxx";
 
