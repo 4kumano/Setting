@@ -45,5 +45,9 @@ $tokenep = "DKoqY9DmxKLGuReI3gN1l";
 $sessionep = "9KcETNyYJInVITfFE8KGEA==";
 $dataep = "EcrKdxZZq2atSyATZ0WoDjtju1CB4IyIg2OsHvhl9esU8ZkmG9VLGnSDvUji4WI8&d_info=E1dLRFLN0XkvZxRytNtuWIBOlCGtqzOIxUFVhh560NPVFbNKalaFpAqGjN5mCg4HmHzTdeeOAj8BPnzJNYXo4pdYjJPNueHo9sfOdYF%2FjRO2hlwcIeHiba6FPDRyuzYG";
 
+//crypto treasure
+$AuthCT = "xxxxxxx";
+$TokenCT = "xxxxxx";
+
 
 
