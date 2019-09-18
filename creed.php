@@ -39,6 +39,7 @@ $tokenBulx = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjA3YWQ1NjkzMGY
 
 //kalo
 $hashku = "18434f2e-daa7-4b93-9c5d-55d6d8e2b1f1";
+$keykalo = "Manusia46*";
 
 //elitpass
 $tokenep = "DKoqY9DmxKLGuReI3gN1l";
