@@ -55,7 +55,7 @@ $userSC = "xxxxxxx";
 $access_keySC = "xxxxxxxx";
 
 //MIXBUZZ
-$dataMB = '{"type":"20","coin":1,"sign":"90f9c8ab953ae00489fdc31e81640cbb","requestTime":1569351284955}';
+$dataMB = '{"type":"20","coin":1,"sign":"b839b94541448214601f29775659964c","requestTime":1569351655753}';
 $AuthMB = "aeeee02b2bdb4a4eb280f9ff876856b5";
 
 
