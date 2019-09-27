@@ -58,7 +58,8 @@ $access_keySC = "xxxxxxxx";
 $dataMB = '{"type":"20","coin":1,"sign":"b839b94541448214601f29775659964c","requestTime":1569351655753}';
 $AuthMB = "aeeee02b2bdb4a4eb280f9ff876856b5";
 
-
+//Pivot
+$dataPv = 'xxxxxx';
 
 
 
