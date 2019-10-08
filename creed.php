@@ -60,8 +60,8 @@ $AuthMB = "aeeee02b2bdb4a4eb280f9ff876856b5";
 $dataPv = '{"h_av":"2.0.3","h_dt":2,"h_os":27,"h_model":"Redmi 5","h_did":"376938074409627_07:c5:04","h_nt":1,"h_m":"5baceeb002b8755ffaf7b4d8","h_ch":"GooglePlay","h_ts":1569696577910,"h_app":"pivot","session":"9ef8629e-485c-4b9d-a6b1-818b3cbb7f03","h_language":"en","h_region":"US","h_sy":748,"h_zone_offset":28800,"h_zone_name":"Asia\/Makassar","h_zone_abbreviation":"GMT+08:00","h_carrier":"IND TELKOMSEL,id,51028","h_sign":"4c4021265282e61f","theme":"1"}';
 
 //coinpayu
-$tokenCP = "8b9c30eddb44839f3fdbdf63c0240a04f57f7870";
-$PHPSESSIDCP = "PHPSESSID=safv779dujl3pks0hkfclas2bo";
+$tokenCP = "71f5710d7db7a10587b0ecd1089031b42f980bb7";
+$PHPSESSIDCP = "PHPSESSID=h5u6sfm33bchrdp2hqg38mglmn";
 $cfduidCP = "__cfduid=d7883424287335cf940db2d2f2d44a10e1569695072";
 $useragentCP = "Mozilla/5.0 (Linux; Android 8.1.0; Redmi 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36";
 
