@@ -1,9 +1,4 @@
 <?php
-system("rm -rf reftoken");
-system("git clone https://github.com/4kumano/reftoken");
-system("clear");
-require __DIR__."/reftoken/reftoken.php";
-
 //AkunCoinBase
 $email_coinbaseUtama = "bergetar15@gmail.com";
 $email_coinbaseUtama2 = "bergetar19@gmail.com";
