@@ -31,7 +31,7 @@ $versisteller = "10";
 //BitcoinBlast
 $keyBB = "AEu4IL03ZLES3kNRB-G143PAnMmYN2bhzkPjeD2qTEpgFCLaQrIIapmwicZlT2phi1iAhJgP_PHJgGc3S76z2oiVAE8CdhZltZ6MCNFAHTETr5haRSZhaFmTHkQpnN2A7wosx9Njkd5wXvuRNT6jS79NjG0m7BxM00GS9Z02EmkM_RIO4DN-wTgOOkk1ocVLm_ikIhiw3ScXRp5m_vyuPAPfTQGPyJdfEA";
 $uidBB = "V1I35DRx7IYLISwmAX46kPrXdDo1";
-$authorizationBB = json_decode(ref($keyBB))
+$authorizationBB = json_decode(ref($keyBB));
 $firebase_instance_id_tokenBB = "fVtImRoS2oU:APA91bE2HkRZ6o5MaSmbTlUiUEg5D_rBZ3b4T4wsSgLuRf5W_9X0CxKz9mCj0PWqpaJooi0I7M35Ttl8CwlEHh3nKvl4i32yILQh_pN3IWmrZFWYoDW7qLs0IuuEQgHeFlVhDq-wUWrY";
 
 
