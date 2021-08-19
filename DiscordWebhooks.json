@@ -1,0 +1,10 @@
+{
+  "username": "Username",
+  "embeds": [
+    {
+      "description": "Webhook Description",
+      "title": "Webhook Title",
+      "color": 1018364
+    }
+  ]
+}
